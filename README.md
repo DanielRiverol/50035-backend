@@ -8,6 +8,7 @@ _(*) Este repositorio estará disponible hasta 30 días luego de finalizado el c
 - [Clase 28](https://github.com/DanielRiverol/50035-backend/tree/main/clase28)
 - [Clase 29](https://github.com/DanielRiverol/50035-backend/tree/main/clase29)
 - [Clase 30](https://github.com/DanielRiverol/50035-backend/tree/main/clase30)
+- [Clase 31](https://github.com/DanielRiverol/50035-backend/tree/main/clase31)
 
 
 
